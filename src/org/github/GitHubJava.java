@@ -11,6 +11,15 @@ public class GitHubJava {
 			}
 			System.out.println();
 		}
+		
+		
+		for (int k = 5; k >=1 ; k--) {
+			for (int j = 1; j <=k; j++) {
+				System.out.print(j + " ");
+				
+			}System.out.println();
+			
+		}
 
 	}
 
