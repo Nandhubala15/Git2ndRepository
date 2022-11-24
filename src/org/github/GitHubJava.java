@@ -11,6 +11,11 @@ public class GitHubJava {
 			}
 			System.out.println();
 		}
+		
+		
+		int n =100;
+		
+		System.out.println(n);
 
 	}
 
